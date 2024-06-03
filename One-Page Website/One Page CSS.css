@@ -1,0 +1,10 @@
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 250%;
+}
+input {
+    margin: 40px;
+    border: double;
+    border-color: red;
+    border-radius: 30%;
+}
